@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "p-limit": "^6.1.0"
+  }
+}

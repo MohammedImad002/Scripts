@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Inside Our Body ",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Living and Non-Living Things",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "All About Plants",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Animal Planet",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Winged Wonders",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Air and Water",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Soil and Rocks",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Nature's Harmony",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Safety First ",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "States Of Matter",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Light, Sound and Force",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    }
+]

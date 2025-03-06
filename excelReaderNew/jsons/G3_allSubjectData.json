@@ -1,0 +1,262 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Pied Piper of Hamelin",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "A Lesson in Saying No (Play) ",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Pumpkin Magic (Poem)",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "The First Voyage of Sinbad the Sailor (Short story)",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "A Picnic in the Mountains (Short story)",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "So Many Birds (Poem)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Hospital Heroes (Short story)",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Nitesh Learns the Sign Language (Short story)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "The Railway Train (Poem)",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "The Cursed Man or King? (Short story)",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Puss in Boots (Fairy tale)",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "chapters": [
+            {
+                "name": "Counting Numbers Upto 9999",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Addition",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Subtraction",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Patterns and Symmetry",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Multiplication",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Division",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Measurement",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Factors",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Introduction to Fractions",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Money",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Geometry & Shapes",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Time",
+                "sequence": 12,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Inside Our Body ",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Living and Non-Living Things",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "All About Plants",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Animal Planet",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Winged Wonders",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Air and Water",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Soil and Rocks",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Nature's Harmony",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Safety First ",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "States Of Matter",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Light, Sound and Force",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Social Science ",
+        "chapters": [
+            {
+                "name": "Fire, Farming, and Wheel",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Different Occupations",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Transport and Communication",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Festivals in India",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "National Symbols",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Major Cities in India",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Villages in India",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Map and Globes",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Natural Landscapes in India",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "India, My Motherland",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Weather and Seasons",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Mother Earth: Our Habitat",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Environment and Pollution",
+                "sequence": 13,
+                "topics": []
+            },
+            {
+                "name": "Our Solar System",
+                "sequence": 14,
+                "topics": []
+            }
+        ]
+    }
+]

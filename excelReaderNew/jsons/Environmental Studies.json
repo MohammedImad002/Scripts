@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Environmental Studies",
+        "sequence": 2,
+        "chapters": [
+            {
+                "name": "EVS",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "S1 Environment and Ecology",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "S1 Environment and Ecology",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS001.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S2 Niche, Biosphere and Bio diversity, Distribution of Biodiversity",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "S2 Niche, Biosphere and Bio diversity, Distribution of Biodiversity",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS002.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S3 Forest 1",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "S3 Forest 1",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS003.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S4 Forest 2",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "S4 Forest 2",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS004.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S5 IUCN & Other envt Summits",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "S5 IUCN & Other envt Summits",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS005.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S6 Rio Summit",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "S6 Rio Summit",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS006.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S7 Global Warming and Green house effect",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "S7 Global Warming and Green house effect",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS007.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S8 Kyoto Protocol and COPs",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "S8 Kyoto Protocol and COPs",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS008.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S9 Ozone and Ozone Depletion",
+                        "sequence": 9,
+                        "materials": [
+                            {
+                                "name": "S9 Ozone and Ozone Depletion",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS009.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S10 conservation of Biodiversity",
+                        "sequence": 10,
+                        "materials": [
+                            {
+                                "name": "S10 conservation of Biodiversity",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS010.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S11 Other Impt conventions and wetlands",
+                        "sequence": 11,
+                        "materials": [
+                            {
+                                "name": "S11 Other Impt conventions and wetlands",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS011.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

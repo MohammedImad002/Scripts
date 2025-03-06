@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Knowing My Body",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Healthy Food Choices",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Air: The Invisible Helper",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Water for Life",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Clothes We Wear",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Our Home, Our Shelter",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Staying Safe Everywhere",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "How We Move and Connect",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Exploring Time and Direction",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": " Discovering Plants",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Exploring Animals",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Earth's Treasures",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Our Earth and the Sky",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    }
+]

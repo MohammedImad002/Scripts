@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "_id": "6731c2f54093d0d6806668f8",
+      "institute_test_name": "Some Basic Concepts of Chemistry",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:06.696Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2f74093d0d6806683ec",
+      "institute_test_name": "Structure of Atom",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:07.017Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2f94093d0d680669ee0",
+      "institute_test_name": "Classification of Elements and Periodicity in Properties",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:07.274Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2fa4093d0d68066b9d4",
+      "institute_test_name": "Chemical Bonding and Molecular Structure",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:07.518Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2fc4093d0d68066d4c8",
+      "institute_test_name": "Thermodynamics",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:07.741Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2fe4093d0d68066efbc",
+      "institute_test_name": "Redox Reaction",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:07.911Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3004093d0d680670ab0",
+      "institute_test_name": "p-Block",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:08.072Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3024093d0d6806725a4",
+      "institute_test_name": "Organic Chemistry",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:08.221Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3044093d0d680674098",
+      "institute_test_name": "Hydrocarbon",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:08.415Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3064093d0d680675b8c",
+      "institute_test_name": "Chemical Equilibrium",
+      "test_pattern_details": {
+        "id": "66ffcebf2be353268b4b9065",
+        "name": "G11-Chemistry Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T08:33:06.067Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T08:33:08.602Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd4466",
+        "institute_name": "BIDAR"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa831e547f3353b4f6c3ed",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

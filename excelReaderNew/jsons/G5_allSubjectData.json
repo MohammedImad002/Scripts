@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Social Science",
+        "chapters": [
+            {
+                "name": "Locating places on the Earth",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Weather and Climate",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Major Temperature Zones of the Earth",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Solar and Lunar Eclipses",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Natural Disasters",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Conservation of Environment",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Natural Vegetation of India",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "India's Neighbours",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Evolution of Transport and Communication",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "First War of Independence",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "The Freedom Struggle",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Our Democratic Government",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "The Constitution of India",
+                "sequence": 13,
+                "topics": []
+            },
+            {
+                "name": "Elections in India",
+                "sequence": 14,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Our Universe",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Force, Energy and Applications",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Volcanoes, Earthquakes and Storms",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Air and Water",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Rocks, Minerals and Soil ",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "States of Matter",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Life of Animals",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Locomotion and Movement",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Reproduction in Plants",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Respiration in Animals",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Nervous System",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Health, Hygiene and Diseases",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Safety and First Aid",
+                "sequence": 13,
+                "topics": []
+            },
+            {
+                "name": "Our Environment: For Everyone",
+                "sequence": 14,
+                "topics": []
+            }
+        ]
+    }
+]

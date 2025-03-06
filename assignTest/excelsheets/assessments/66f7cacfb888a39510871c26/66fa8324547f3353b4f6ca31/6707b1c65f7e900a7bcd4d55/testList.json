@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "_id": "6731c2c44093d0d6806392ea",
+      "institute_test_name": "Units and Measurement",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:02.315Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2c64093d0d68063adde",
+      "institute_test_name": "Motion in a Straight Line",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:02.737Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2c84093d0d68063c8d2",
+      "institute_test_name": "Laws of Motion",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:03.022Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2ca4093d0d68063e3c6",
+      "institute_test_name": "Work Power Energy",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:03.338Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2cb4093d0d68063feba",
+      "institute_test_name": "System of Particles and Rotational Movement",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:03.570Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2cd4093d0d6806419ae",
+      "institute_test_name": "Gravitation",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:03.752Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2cf4093d0d6806434a2",
+      "institute_test_name": "Mechanical Properties of Solids",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:03.941Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2d14093d0d680644f96",
+      "institute_test_name": "Mechanical Properties of Fluids",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:04.170Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2d34093d0d680646a8a",
+      "institute_test_name": "Thermal Properties of Matter",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:04.337Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2d44093d0d68064857e",
+      "institute_test_name": "Thermodynamics",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:04.503Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2d64093d0d68064a072",
+      "institute_test_name": "Kinetic Theory",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:04.659Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2d84093d0d68064bb66",
+      "institute_test_name": "Oscillation",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:04.841Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2da4093d0d68064d65a",
+      "institute_test_name": "WAVES",
+      "test_pattern_details": {
+        "id": "66fcf749f06e8a6e5265a6dd",
+        "name": "G11-Physics Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:01.440Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:05.048Z",
+      "institute_details": {
+        "institute_id": "6707b1c65f7e900a7bcd4d55",
+        "institute_name": "KOPPAL"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa8324547f3353b4f6ca31",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

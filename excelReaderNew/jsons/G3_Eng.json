@@ -1,0 +1,62 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Pied Piper of Hamelin",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "A Lesson in Saying No (Play) ",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Pumpkin Magic (Poem)",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "The First Voyage of Sinbad the Sailor (Short story)",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "A Picnic in the Mountains (Short story)",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "So Many Birds (Poem)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Hospital Heroes (Short story)",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Nitesh Learns the Sign Language (Short story)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "The Railway Train (Poem)",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "The Cursed Man or King? (Short story)",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Puss in Boots (Fairy tale)",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    }
+]

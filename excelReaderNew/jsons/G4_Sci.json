@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Journey Through Space",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Building Blocks: Material",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Force, Work and Energy",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Weather and Water",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "States of Matter",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Around and Beneath Us",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Nature's Unity",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Cycle of Life",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Adaptation in Animals",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Adaptation in Plants",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Green Chefs of the Earth",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "The Journey of Food and Waste",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Food and Nutrition",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    }
+]

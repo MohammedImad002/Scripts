@@ -1,0 +1,133 @@
+[
+    {
+        "name": "Environmental Science",
+        "chapters": [
+            {
+                "name": "EVS",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "S1 Environment and Ecology",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "S1 Environment and Ecology",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S2 Niche, Biosphere and Bio diversity, Distribution of Biodiversity",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "S2 Niche, Biosphere and Bio diversity, Distribution of Biodiversity",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS002.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S3 Forest 1",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "S3 Forest 1",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S4 Forest 2",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "S4 Forest 2",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S5 IUCN & Other envt Summits",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "S5 IUCN & Other envt Summits",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S6 Rio Summit",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "S6 Rio Summit",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S7 Global Warming and Green house effect",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "S7 Global Warming and Green house effect",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S8 Kyoto Protocol and COPs",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "S8 Kyoto Protocol and COPs",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS008.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S9 Ozone and Ozone Depletion",
+                        "sequence": 9,
+                        "materials": [
+                            {
+                                "name": "S9 Ozone and Ozone Depletion",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS009.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S10 conservation of Biodiversity",
+                        "sequence": 10,
+                        "materials": [
+                            {
+                                "name": "S10 conservation of Biodiversity",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/upsc/evs/UPSCEVSS010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/evs/UPSCEVSS010.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,676 @@
+{
+  "data": [
+    {
+      "_id": "6731c3194093d0d680681752",
+      "institute_test_name": "Electric charges and Field",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:31.618Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c31a4093d0d680683246",
+      "institute_test_name": "Electrostatic-Potential and Capacitors",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:31.965Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c31c4093d0d680684d3a",
+      "institute_test_name": "Current electricity",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:32.201Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c31e4093d0d68068682e",
+      "institute_test_name": "Moving Charges and magnetism",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:32.457Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3204093d0d680688322",
+      "institute_test_name": "Magnetism and Matter",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:32.629Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3224093d0d680689e16",
+      "institute_test_name": "Electromagnetic Induction",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:32.868Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3244093d0d68068b90a",
+      "institute_test_name": "Alternating current",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.058Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3264093d0d68068d3fe",
+      "institute_test_name": "Electromagnetic Waves",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.261Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3284093d0d68068eef2",
+      "institute_test_name": "Ray Optics And Optical Instruments",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.400Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c32a4093d0d6806909e6",
+      "institute_test_name": "Wave Optics",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.553Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c32c4093d0d6806924da",
+      "institute_test_name": "Dual Nature Of Radiation And Matter",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.707Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c32e4093d0d680693fce",
+      "institute_test_name": "Atoms",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:33.897Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3304093d0d680695ac2",
+      "institute_test_name": "Nuclei",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:34.046Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3324093d0d6806975b6",
+      "institute_test_name": "Semiconductor Electronics",
+      "test_pattern_details": {
+        "id": "6700d2f660d574351e564764",
+        "name": "G12-Physics Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-09T04:18:31.004Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-09T04:18:34.195Z",
+      "institute_details": {
+        "institute_id": "6707b1c55f7e900a7bcd40e7",
+        "institute_name": "UDUPI"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Physics",
+            "subject_id": "66fa836a3dece03c7ab32e76",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

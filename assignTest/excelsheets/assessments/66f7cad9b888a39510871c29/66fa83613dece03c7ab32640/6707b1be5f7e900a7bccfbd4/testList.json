@@ -1,0 +1,580 @@
+{
+  "data": [
+    {
+      "_id": "6731c30c4093d0d680676654",
+      "institute_test_name": "Solutions",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:42.355Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c30e4093d0d680678148",
+      "institute_test_name": "Electrochemistry",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:42.689Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3104093d0d680679c3c",
+      "institute_test_name": "Chemical Kinetics",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:42.959Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3124093d0d68067b730",
+      "institute_test_name": "Amines",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:44.297Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3144093d0d68067d224",
+      "institute_test_name": "Biomolecules",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:44.464Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3164093d0d68067ed18",
+      "institute_test_name": "Practical Chemistry",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:44.619Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c34b4093d0d6806adfe6",
+      "institute_test_name": "P Block Element",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:43.220Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c34d4093d0d6806afada",
+      "institute_test_name": "D & F Block Elements",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:43.431Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c34f4093d0d6806b15ce",
+      "institute_test_name": "Coordination Compounds",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:43.579Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3514093d0d6806b30c2",
+      "institute_test_name": "Haloalkanes and Haloarenes",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:43.767Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c3534093d0d6806b4bb6",
+      "institute_test_name": "Aldehydes, Ketones AND CARBOXYLIC ACIDS",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:44.127Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c36e4093d0d6806cc50e",
+      "institute_test_name": "Alcohol, Phenols and Ethers",
+      "test_pattern_details": {
+        "id": "66ffcf582be353268b4b9071",
+        "name": "G12-Chemistry Template"
+      },
+      "course_id": "66f7cad9b888a39510871c29",
+      "course_name": "Grade 12",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-07T10:15:41.759Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-07T10:15:43.967Z",
+      "institute_details": {
+        "institute_id": "6707b1be5f7e900a7bccfbd4",
+        "institute_name": "VIJAYAPURA"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Chemistry",
+            "subject_id": "66fa83613dece03c7ab32640",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

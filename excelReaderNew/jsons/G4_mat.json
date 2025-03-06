@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Maths",
+        "chapters": [
+            {
+                "name": "Numbers From Thousands to Lakh",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Addition and Subtraction",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Multiplication",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Division",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Factors ",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Multiples",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Fractions",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Introduction to Decimals",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Geometry",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Metric Measures",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Area and Perimeter",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Patterns and Symmetry",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Time",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    }
+]

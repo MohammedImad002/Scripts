@@ -1,0 +1,916 @@
+{
+  "data": [
+    {
+      "_id": "6731c2a24093d0d68061863a",
+      "institute_test_name": "The Living World",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:33.231Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2a34093d0d68061a12e",
+      "institute_test_name": "Biological Classification",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:33.563Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2a54093d0d68061bc22",
+      "institute_test_name": "Plant Kingdom",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:33.774Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2a74093d0d68061d716",
+      "institute_test_name": "Animal Kingdom",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.009Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2a94093d0d68061f20a",
+      "institute_test_name": "Anatomy of Flowering Plants",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.172Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2ab4093d0d680620cfe",
+      "institute_test_name": "Structural Organization in Animals",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.319Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2ac4093d0d6806227f2",
+      "institute_test_name": "Cell the Unit of Life",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.459Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2ae4093d0d6806242e6",
+      "institute_test_name": "Biomolecules",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.600Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b04093d0d680625dda",
+      "institute_test_name": "Cell Cycle and Cell Division",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.774Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b24093d0d6806278ce",
+      "institute_test_name": "Photosynthesis in Higher Plants",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:34.910Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b34093d0d6806293c2",
+      "institute_test_name": "Respiration in Plants",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.046Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b54093d0d68062aeb6",
+      "institute_test_name": "Plant Growth and Development",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.190Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b74093d0d68062c9aa",
+      "institute_test_name": "Breathing and Exchange of Gases",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.347Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2b94093d0d68062e49e",
+      "institute_test_name": "Body Fluids and Circulation",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.518Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2bb4093d0d68062ff92",
+      "institute_test_name": "Excretory Products and their Elimination",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.651Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2bc4093d0d680631a86",
+      "institute_test_name": "Locomotion and Movement",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.779Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2be4093d0d68063357a",
+      "institute_test_name": "Neural Control and Coordination",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:35.925Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2c04093d0d68063506e",
+      "institute_test_name": "Chemical Control & Coordination",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:36.089Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "_id": "6731c2c24093d0d680636b62",
+      "institute_test_name": "Morphology",
+      "test_pattern_details": {
+        "id": "66fe93735a04e6d1e71c8f8c",
+        "name": "G11-Biology Template"
+      },
+      "course_id": "66f7cacfb888a39510871c26",
+      "course_name": "Grade 11",
+      "test_duration": 45,
+      "password": "",
+      "created_by": "65ca14aa963cadfb66615d73",
+      "test_type": "SUPERADMIN_TEST",
+      "total_test_questions": 45,
+      "total_marks": 180,
+      "instruction_text": "You will be taking a test consisting of 45 multiple-choice questions (MCQs), with each question carrying 4 marks, for a total of 180 marks. However, for every wrong answer, 1 mark will be deducted. You will have 45 minutes to complete the test. Please manage your time wisely to ensure you answer all questions accurately, considering the penalty for incorrect answers. Best of luck!",
+      "result_announce": "IMMEDIATE",
+      "result_announce_time": "2024-11-11T05:03:32.594Z",
+      "enabled": false,
+      "status": "ASSIGNED",
+      "branch_details": [],
+      "batch_details": [],
+      "createdAt": "2024-11-11T05:03:36.270Z",
+      "institute_details": {
+        "institute_id": "6707b1c05f7e900a7bcd1164",
+        "institute_name": "DAVANAGERE"
+      },
+      "test_end_time": "2024-11-14T15:30:00.000Z",
+      "test_start_time": "2025-05-18T07:30:00.000Z",
+      "assigned_by": {
+        "_id": "65ca14aa963cadfb66615d73",
+        "firstName": "Superadmin",
+        "role": "superAdmin"
+      },
+      "test_details": {
+        "subjects_details": [
+          {
+            "subject_name": "Biology",
+            "subject_id": "66fa8310547f3353b4f6b5d9",
+            "are_all_questions_added_for_subject": true,
+            "teacher_details": {
+              "teacher_id": null,
+              "teacher_name": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2377 @@
+[
+    {
+        "name": "Chemistry",
+        "chapters": [
+            {
+                "name": "Some Basic Concepts of Chemistry",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "Importance of Chemistry and Introduction to Matter",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Classification of matter",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1002.png"
+                            },
+                            {
+                                "name": "T2 Properties of matter & their measurements",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Metric Measures",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T3 Uncertainty in measurements & significant figures",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemical Laws",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T4 Laws of Chemical combinations",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1004.png"
+                            },
+                            {
+                                "name": "T5 Dalton's & Modern atomic theory",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1005.png"
+                            },
+                            {
+                                "name": "T6 Avogadro's hypothesis & it's applications",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Calculations on Mass of Atom/Mole/Avogadro's No",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T7 Atomic mass & Molecular mass",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1007.png"
+                            },
+                            {
+                                "name": "T8 Mole Concept & Avagadro number",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1008.png"
+                            },
+                            {
+                                "name": "T9 Applications of Mole concept and Avogadro's number",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1009.png"
+                            },
+                            {
+                                "name": "T10 Percentage composition, Emperical & Molecular formula",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stoichiometric concepts",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T11 Stoichiometry & calculation based on stoichiometry",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1011.png"
+                            },
+                            {
+                                "name": "T12 Equivalent weight",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1012.png"
+                            },
+                            {
+                                "name": "T13 Methods of determining Equivalent weight",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1013.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Methods of Expression of Concentration Terms",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T14 Molarity, Molality & Normality",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/1.some-basic-concept-of-chemistry/TC1014.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Structure of Atom",
+                "sequence": 2,
+                "topics": [
+                    {
+                        "name": "Discovery of sub atomic particles",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Discovery of electron",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2001.png"
+                            },
+                            {
+                                "name": "T2 Discovery of protons",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2002.png"
+                            },
+                            {
+                                "name": "T3 Discovery of neutrom",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2003.png"
+                            },
+                            {
+                                "name": "T4 Other fundamental particle atom",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Atomic Models",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T5 J J Thomson Plum pudding experiment",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2005.png"
+                            },
+                            {
+                                "name": "T6 Rutherford's scattering experiment",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2006.png"
+                            },
+                            {
+                                "name": "T7 Atomic number & mass number",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2007.png"
+                            },
+                            {
+                                "name": "T8 Isotopes, isobar, Isotones etc.",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2008.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dual nature of EMR",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T10 Wave nature of Electromagnetic radations",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2010.png"
+                            },
+                            {
+                                "name": "T11 Particle nature of electromagnetic radiations",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2011.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Development leading to bohr Model",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T13 Quantisation",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2013.png"
+                            },
+                            {
+                                "name": "T14 Emission & Absorption spectrum",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2014.png"
+                            },
+                            {
+                                "name": "T15 Line spectrum of Hydrogem",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2015.png"
+                            },
+                            {
+                                "name": "T16 Postulates of Bohr's atomic Model",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2016.png"
+                            },
+                            {
+                                "name": "T17 Applications of Bohr's theory",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2017.png"
+                            },
+                            {
+                                "name": "T18 Hydrogen spectrum showing different energy levels",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2018.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2018.png"
+                            },
+                            {
+                                "name": "T19 Rydberg formula for wave number",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2019.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2019.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DUAL Nature of Matter",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T21 de Broglie concept of Dual nature of matter",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2021.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2021.png"
+                            },
+                            {
+                                "name": "T22 Hiesenberg's uncertainty principle",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2022.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2022.png"
+                            },
+                            {
+                                "name": "T23 de Broglie's wavelength",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2023.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2023.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quantum mechanics and schrodinger wave equation",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T25 Quantum mechanical model of an atom",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2025.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2025.png"
+                            },
+                            {
+                                "name": "T26 Principal quantum numbers",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2026.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2026.png"
+                            },
+                            {
+                                "name": "T27 Azimuthal quantum number",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2027.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2027.png"
+                            },
+                            {
+                                "name": "T28 Magnetic quantum number Cont",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2028.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quantum Numbers",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T30 Electron spin quantum number",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2030.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2030.png"
+                            },
+                            {
+                                "name": "T31 Energy of electron in Hydrogen atom",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2031.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2031.png"
+                            },
+                            {
+                                "name": "T32 Energy of electron in multielectron species",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2032.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2032.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rules for filling electrons in an atom",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "T33 Afbau principle",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2033.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2033.png"
+                            },
+                            {
+                                "name": "T34 Pauli's exclusion principles & Hunds rule",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2034.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2034.png"
+                            },
+                            {
+                                "name": "T35 Electronic configuration of atoms",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2035.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/2.structure-of-atom/TC2035.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Classification of Elements and Periodicity in Properties",
+                "sequence": 3,
+                "topics": [
+                    {
+                        "name": "Origin of periodic table",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introductions and historical developments in periodic table",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3001.png"
+                            },
+                            {
+                                "name": "T2 Modern periodic law",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3002.png"
+                            },
+                            {
+                                "name": "T3 Nomenclature of elements atomic number more than 100",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3003.png"
+                            },
+                            {
+                                "name": "T4 Longform of periodic table",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Periodic properties",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T5 Shielding effect & efffective nuclear charge",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3005.png"
+                            },
+                            {
+                                "name": "T6 Atomic radius",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3006.png"
+                            },
+                            {
+                                "name": "T7 Ionisation energy",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3007.png"
+                            },
+                            {
+                                "name": "T8 Electron gain enthalpy",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3008.png"
+                            },
+                            {
+                                "name": "T9 Electronegativity",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3009.png"
+                            },
+                            {
+                                "name": "T10 Application & measure of electronegativity",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3010.png"
+                            },
+                            {
+                                "name": "T11 Valency",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/3.classification-of-elements-and-periodicity-in-properties/TC3011.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chemical Bonding and Molecular Structure",
+                "sequence": 4,
+                "topics": [
+                    {
+                        "name": "Bonding in molecules",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to chemical bonding",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4001.png"
+                            },
+                            {
+                                "name": "T2 Kossel lewis approach to chemical bonding",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4002.png"
+                            },
+                            {
+                                "name": "T3 Octet rule",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4003.png"
+                            },
+                            {
+                                "name": "T4 Lewis Dot structure",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4004.png"
+                            },
+                            {
+                                "name": "T5 Example of Lewis Dot structure with calculations",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4005.png"
+                            },
+                            {
+                                "name": "T6 Formal charge with examples",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4006.png"
+                            },
+                            {
+                                "name": "T7 Limitations of Octet rule",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Characteristics of Ionic Bonds",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T9 Ionic Bond",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4009.png"
+                            },
+                            {
+                                "name": "T10 Conditions for Ionic bond",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4010.png"
+                            },
+                            {
+                                "name": "T11 Born Haber cycle",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4011.png"
+                            },
+                            {
+                                "name": "T12 Properties of Ionic compounds",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4012.png"
+                            },
+                            {
+                                "name": "T13 Factors affecting solubility of Ionic compunds",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4013.png"
+                            },
+                            {
+                                "name": "T14 Melting point of Ionic compounds",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4014.png"
+                            },
+                            {
+                                "name": "T15 Covalent character in ionic bond & Fajan's rule",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4015.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Characteristics of covalent bond",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T17 Covalent bond",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4017.png"
+                            },
+                            {
+                                "name": "T18 Orbital concept of covalent bond",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4018.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4018.png"
+                            },
+                            {
+                                "name": "T19 Characteristics of covalent bond",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4019.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4019.png"
+                            },
+                            {
+                                "name": "T20 Polarity of bonds",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4020.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4020.png"
+                            },
+                            {
+                                "name": "T21 Dipole moment",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4021.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4021.png"
+                            },
+                            {
+                                "name": "T23 Applications of dipole moment",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4023.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4023.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Theories of covalent bonding",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T25 Limitations of octet rule",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4025.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4025.png"
+                            },
+                            {
+                                "name": "T26 Valence bond theory (VBT)",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4026.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4026.png"
+                            },
+                            {
+                                "name": "T27 Orbital overlap concept in VBT",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4027.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4027.png"
+                            },
+                            {
+                                "name": "T28 Example of orbital overlap concept in VBT",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4028.png"
+                            },
+                            {
+                                "name": "T29 Two types of bonds",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4028.png"
+                            },
+                            {
+                                "name": "T31 VSEPR theory",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4031.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4031.png"
+                            },
+                            {
+                                "name": "T32 Number of electron pair & their geometrical arrangement",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4032.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4032.png"
+                            },
+                            {
+                                "name": "T33 Hybridisation",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4033.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4033.png"
+                            },
+                            {
+                                "name": "T34 Calculation of hybrid orbitals",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4034.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4034.png"
+                            },
+                            {
+                                "name": "T35 SP hybridisation",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4035.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4035.png"
+                            },
+                            {
+                                "name": "T36 Sp2 hybridisation",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4036.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4036.png"
+                            },
+                            {
+                                "name": "T37 Sp3 hybridisation",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4037.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4037.png"
+                            },
+                            {
+                                "name": "T38 Hybridisation for alkene & alkyne",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4038.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4038.png"
+                            },
+                            {
+                                "name": "T39 Hybridisation of elements involving d-orbitals",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4039.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4039.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BOND PARAMETERS",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T41 Bond length",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4041.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4041.png"
+                            },
+                            {
+                                "name": "T42 Bond angle",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4042.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4042.png"
+                            },
+                            {
+                                "name": "T43 Bond energy",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4043.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4043.png"
+                            },
+                            {
+                                "name": "T44 Bond order",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4044.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4044.png"
+                            },
+                            {
+                                "name": "T45 Important note on bond parameters",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4045.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4045.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Highlights of MOT",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T47 Molecular orbital theory & salient features of MOT",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4047.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4047.png"
+                            },
+                            {
+                                "name": "T48 Linear combination of atomic orbitals",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4048.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4048.png"
+                            },
+                            {
+                                "name": "T49 Notations of molecular orbitals",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4049.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4049.png"
+                            },
+                            {
+                                "name": "T50 Conditions for combining atomic orbitals",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4050.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4050.png"
+                            },
+                            {
+                                "name": "T51 Types of Molecular orbitals",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4051.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4051.png"
+                            },
+                            {
+                                "name": "T52 Difference between sigma & Pi molecular orbitals",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4052.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4052.png"
+                            },
+                            {
+                                "name": "T53 Energy level diagram",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4053.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4053.png"
+                            },
+                            {
+                                "name": "T54 Electronic configuration of molecules",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4054.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4054.png"
+                            },
+                            {
+                                "name": "T55 Electronic configuration of Hydrogen & hydrogen ion molecule",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4055.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4055.png"
+                            },
+                            {
+                                "name": "T56 Electronic configuration of helium & lithium molecule",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4056.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4056.png"
+                            },
+                            {
+                                "name": "T57 Electronic configuration of Berilium, Boron & carbon molecules",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4057.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4057.png"
+                            },
+                            {
+                                "name": "T58 Stability comparison between hydrogen, Lithium & Boron molecule",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4058.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4058.png"
+                            },
+                            {
+                                "name": "T59 Electronic configuration of nitrogen & nitrogen molecule",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4059.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4059.png"
+                            },
+                            {
+                                "name": "T60 Electronic configuration for Oxygen & Oxygen molecules",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4060.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4060.png"
+                            },
+                            {
+                                "name": "T61 Electronic configuration for heteronuclear diatomic molecules",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4061.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4061.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CONCEPT OF RESONANCE",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T63 Coordinate bond",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4063.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4063.png"
+                            },
+                            {
+                                "name": "T64 Metallic bond",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4064.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4064.png"
+                            },
+                            {
+                                "name": "T65 weaker force- Van der wals forces",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4065.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4065.png"
+                            },
+                            {
+                                "name": "T66 Hydrogen bonding",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4066.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4066.png"
+                            },
+                            {
+                                "name": "T67 Effect of hydrgen bonding",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4067.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4067.png"
+                            },
+                            {
+                                "name": "T68 Resonance",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4068.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/4.chemical-bonding-and-molecular-structure/TC4068.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sates of Matter",
+                "sequence": 5,
+                "topics": [
+                    {
+                        "name": "Introduction to States of Matter",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5001.png"
+                            },
+                            {
+                                "name": "T2 Intermolecular forces due to dipole- dipole & ion-dipole interaction",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5002.png"
+                            },
+                            {
+                                "name": "T3 Intermolecular forces due to dipole-induced dipole & london forces",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5003.png"
+                            },
+                            {
+                                "name": "T4 Hydrogen bonding & thermal energy",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5004.png"
+                            },
+                            {
+                                "name": "T5 Types of bonding, melting & boiling point",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5005.png"
+                            },
+                            {
+                                "name": "T6 Gaseous state",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LAW 's of Gases",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T7 Boyle's law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5007.png"
+                            },
+                            {
+                                "name": "T8 Charle's law",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5008.png"
+                            },
+                            {
+                                "name": "T9 Gay-Lussac's law & Avagadro law",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5009.png"
+                            },
+                            {
+                                "name": "T10 Graham's law of diffusion",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5010.png"
+                            },
+                            {
+                                "name": "T11 Dalton's law of partial pressure",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5011.png"
+                            },
+                            {
+                                "name": "T12 Postulates of kinetic molecular theory of gases",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5012.png"
+                            },
+                            {
+                                "name": "T13 Kinetic energy & molecular speeds",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5013.png"
+                            },
+                            {
+                                "name": "T14 Relation between average kinetic energy & absolute temperature",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5014.png"
+                            },
+                            {
+                                "name": "T15 Average speed & most probable speed",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5015.png"
+                            },
+                            {
+                                "name": "T16 Maxwell-Boltzman distribution of molecular & most probable speeds",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5016.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CONTINUITY OF STATE",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T17 Vapour pressure & surface tension in liquid state",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/5.states-of-matter/TC5017.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Thermodynamics",
+                "sequence": 6,
+                "topics": [
+                    {
+                        "name": "BASIC TERMS IN THERMODYNAMICS",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction & Types of systems",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6001.png"
+                            },
+                            {
+                                "name": "T2 Extensive & Intensive properties",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6002.png"
+                            },
+                            {
+                                "name": "T3 State function or variables",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "THERMODYNAMIC PARAMETER 'S",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 Internal energy",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6004.png"
+                            },
+                            {
+                                "name": "T5 Enthalpy",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6005.png"
+                            },
+                            {
+                                "name": "T6 Entropy",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6006.png"
+                            },
+                            {
+                                "name": "T7 Gibb's free energy",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6007.png"
+                            },
+                            {
+                                "name": "T8 Laws of thermodynamics",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6008.png"
+                            },
+                            {
+                                "name": "T9 Thermodynamics equillibrium",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6009.png"
+                            },
+                            {
+                                "name": "T10 Reversible & Irreversible process",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6010.png"
+                            },
+                            {
+                                "name": "T11 Internal energy",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC60011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC60011.png"
+                            },
+                            {
+                                "name": "T12 Work",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6012.png"
+                            },
+                            {
+                                "name": "T13 Heat",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6013.png"
+                            },
+                            {
+                                "name": "T14 Example problem 1,2 & 3 for Energy, work and Heat",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6014.png"
+                            },
+                            {
+                                "name": "T15 Example problem 4 & 5 for Energy, work and Heat",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6015.png"
+                            },
+                            {
+                                "name": "T16 Exothermic & Endothermic reactions",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6016.png"
+                            },
+                            {
+                                "name": "T17 Relation between internal energy and enthalpy",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6017.png"
+                            },
+                            {
+                                "name": "T18 Heat capacity",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6018.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6018.png"
+                            },
+                            {
+                                "name": "T19 Determination of enthalpy & internal energy experimentally",
+                                "sequence": 16,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6019.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6019.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thermochemistry and laws",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T20 Thermochemical equations",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6020.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6020.png"
+                            },
+                            {
+                                "name": "T21 Enthalpy of reaction",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6021.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6021.png"
+                            },
+                            {
+                                "name": "T22 Enthalpy of formation",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6022.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6022.png"
+                            },
+                            {
+                                "name": "T23 Enthalpy of combustion",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6023.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6023.png"
+                            },
+                            {
+                                "name": "T24 Enthalpy of neutralization",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6024.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6024.png"
+                            },
+                            {
+                                "name": "T25 Enthalpy of solution",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6025.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6025.png"
+                            },
+                            {
+                                "name": "T26 Enthalpy of bond dissociation, atomization & Sublimatiuon",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6026.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6026.png"
+                            },
+                            {
+                                "name": "T27 Enthalpy of phase transition",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6027.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6027.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LAWS OF THERMOCHEMISTRY",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T28 Hess law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6028.png"
+                            },
+                            {
+                                "name": "T29 Entropy",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6029.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/6.thermodynamics/TC6029.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redox Reaction",
+                "sequence": 8,
+                "topics": [
+                    {
+                        "name": "DEFINITION OF OXIDATION AND REDUCTION",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Classical concept of oxidation & reduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8001.png"
+                            },
+                            {
+                                "name": "T2 Rules for assigning oxidation numbers with examples",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8002.png"
+                            },
+                            {
+                                "name": "T3 Oxidation & reduction interms of oxidation number",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TYPES OF REDOX REACTIONS",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 Nomenclature, Oxidation state of free elements & Paradox",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8004.png"
+                            },
+                            {
+                                "name": "T5 Combination & decomposition redox reactions",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8005.png"
+                            },
+                            {
+                                "name": "T6 Displacement redox reactions",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8006.png"
+                            },
+                            {
+                                "name": "T7 Disproportionation redox reactions with examples",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8007.png"
+                            },
+                            {
+                                "name": "T8 Balancing redox reactions with oxidation number method",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8008.png"
+                            },
+                            {
+                                "name": "T9 Balancing redox reactions with electron transfer method",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8009.png"
+                            },
+                            {
+                                "name": "T10 electronic concept of oxidation & reduction",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ELECTROCHEMICAL SERIES",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T11 Competitive electron transfer reactions",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8011.png"
+                            },
+                            {
+                                "name": "T12 Redox reactions and electrode processes",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8012.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "REDOX TITRATIONS",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T13 Redox reactions on the basis of Titrations",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/8.redox-reaction/TC8013.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hydrogen",
+                "sequence": 9,
+                "topics": [
+                    {
+                        "name": "CHEMISTRY OF HYDROGEN",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to Hydrogen",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9001.png"
+                            },
+                            {
+                                "name": "T2 Preparation od dihydrogen",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9002.png"
+                            },
+                            {
+                                "name": "T3 Physical & Chemical properties of dihydrogen",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9003.png"
+                            },
+                            {
+                                "name": "T4 Uses of dihydrogen",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "COMPOUNDS OF HYDROGEN",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T5 Hydrides",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9005.png"
+                            },
+                            {
+                                "name": "T6 Water",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9006.png"
+                            },
+                            {
+                                "name": "T7 Chemical properties of water",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9007.png"
+                            },
+                            {
+                                "name": "T8 Types of hardness & Softerning of hardwater",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9008.png"
+                            },
+                            {
+                                "name": "T9 Heavy water",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9009.png"
+                            },
+                            {
+                                "name": "T10 Hydrogen peroxide preparation",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9010.png"
+                            },
+                            {
+                                "name": "T11 Physical & Chemical properties of hydrogen peroxide",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/9.hydrogen/TC9011.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "s-Block",
+                "sequence": 10,
+                "topics": [
+                    {
+                        "name": "GROUP I AND II ELEMENTS",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 General characteristics & physical properties of Alkali & Alkaline earth metals",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10001.png"
+                            },
+                            {
+                                "name": "T2 Chemical properties of Alkali & Alkaline earth metals",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10002.png"
+                            },
+                            {
+                                "name": "T3 Compounds of Alkali metals",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10003.png"
+                            },
+                            {
+                                "name": "T4 Compounds of Alkaline earth metals",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10004.png"
+                            },
+                            {
+                                "name": "T5 Biological importance of S Block elements",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ANAMOLOUS BEHAVIOUR AND DIAGONAL RELATIONSHIP",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T6 Anamolous properties of Lithium & it's diagonal relationship with Magnessium",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10006.png"
+                            },
+                            {
+                                "name": "T7 Anamolous properties of Berillium & it's diagonal relationship with Alluminium",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/10.the-s-block-elements/TC10007.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "p-Block",
+                "sequence": 11,
+                "topics": [
+                    {
+                        "name": "Some p - Block Elements (Group 13)",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to P block elements",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11001.png"
+                            },
+                            {
+                                "name": "T2 Boron family",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11002.png"
+                            },
+                            {
+                                "name": "T3 Trends in chemical reactivity in Boron",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11003.png"
+                            },
+                            {
+                                "name": "T4 Physical & Anamolous properties of Bororn",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11004.png"
+                            },
+                            {
+                                "name": "T5 Compounds of Boron, Borax",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11005.png"
+                            },
+                            {
+                                "name": "T6 Boric acid",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11006.png"
+                            },
+                            {
+                                "name": "T7 Boron Hydrides",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11007.png"
+                            },
+                            {
+                                "name": "T8 Diborane",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11008.png"
+                            },
+                            {
+                                "name": "T9 Uses of Boron & Alluminium",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11009.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 14 Elements",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T10 Carbon family & it's physical properties",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11010.png"
+                            },
+                            {
+                                "name": "T11 Chemical properties of carbon family",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11011.png"
+                            },
+                            {
+                                "name": "T12 Anamolous behaviour of carbon",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11012.png"
+                            },
+                            {
+                                "name": "T13 Allotropes of carbon",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11013.png"
+                            },
+                            {
+                                "name": "T14 Compounds of carbon",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11014.png"
+                            },
+                            {
+                                "name": "T15 Compounds of silicon, Silicon tetrachloride",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11015.png"
+                            },
+                            {
+                                "name": "T16 Silicon dioxide & SIlicones",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11016.png"
+                            },
+                            {
+                                "name": "T17 Silicates",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/11.the-p-block-elements/TC11017.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": " Organic Chemistry",
+                "sequence": 12,
+                "topics": [
+                    {
+                        "name": "Basic Principles in Organic Chemistry",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to organic chemistry",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12001.png"
+                            },
+                            {
+                                "name": "T2 Carbon",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12002.png"
+                            },
+                            {
+                                "name": "T3 Pure to hybrid ratio",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12003.png"
+                            },
+                            {
+                                "name": "T4 Classification of organic compounds",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12004.png"
+                            },
+                            {
+                                "name": "T5 Representation of organic compounds",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12005.png"
+                            },
+                            {
+                                "name": "T6 Nomenclature of organic compounds",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12006.png"
+                            },
+                            {
+                                "name": "T7 Rules for IUPAC Nomenclature with examples",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12007.png"
+                            },
+                            {
+                                "name": "T8 Examples for Nomenclature of unsaturated hydrocarbon",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12008.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nomenclature of Mono Functional Groups",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T9 Nomenclature of organic compound having Carboxylic acid",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12009.png"
+                            },
+                            {
+                                "name": "T10 Nomenclature of compounds having sulphonic acid, anhydride & ester",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12010.png"
+                            },
+                            {
+                                "name": "T11 Nomenclature of compounds having halides & amides",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12011.png"
+                            },
+                            {
+                                "name": "T12 Nomenclature of compounds having cyanides & Isocyanides",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12012.png"
+                            },
+                            {
+                                "name": "T13 Nomenclature of compound having aldehydes",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12013.png"
+                            },
+                            {
+                                "name": "T14 Nomenclature of compound having ketones & alcohols",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12014.png"
+                            },
+                            {
+                                "name": "T15 Nomenclature of compounds having Amines & Ethers",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12015.png"
+                            },
+                            {
+                                "name": "T16 Nomenclature of compounds having epoxy, nitroalkanes & haloalkanes",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12016.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nomenclature of Bifunctional Groups",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T17 Nomenclature of Multifunctional group compounds",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12017.png"
+                            },
+                            {
+                                "name": "T18 Examples of multi functional group compounds",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12018.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12018.png"
+                            },
+                            {
+                                "name": "T19 Nomenclature of Alicyclic compounds",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12019.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12019.png"
+                            },
+                            {
+                                "name": "T20 Application of Hyperconjugation",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12020.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12020.png"
+                            },
+                            {
+                                "name": "T21 Nomenclature of Aromatic compounds",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12021.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12021.png"
+                            },
+                            {
+                                "name": "T22 Nomenclature of Bicyclic compounds",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12022.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12022.png"
+                            },
+                            {
+                                "name": "T23 Examples of compounds structure from given IUPAC name",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12023.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12023.png"
+                            },
+                            {
+                                "name": "T24 Short summary of nomenclature",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12024.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12024.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Structural Isomerism",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T25 Isomerism",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12025.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12025.png"
+                            },
+                            {
+                                "name": "T26 Chain isomerism",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12026.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12026.png"
+                            },
+                            {
+                                "name": "T27 Positional isomerism",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12027.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12027.png"
+                            },
+                            {
+                                "name": "T28 Functional isomerism",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12028.png"
+                            },
+                            {
+                                "name": "T29 Metamerism",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12029.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12029.png"
+                            },
+                            {
+                                "name": "T30 Ring chain isomerism & Tautomerism",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12030.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12030.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stereo Isomerism (Geometrical and Optical)",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T31 Stereo isomerism",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12031.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12031.png"
+                            },
+                            {
+                                "name": "T32 Optical isomerism",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12032.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12032.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electron Displacement Effects and Applications",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T33 Types of Electron migration effect",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12033.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12033.png"
+                            },
+                            {
+                                "name": "T34 Inductive effect",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12034.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12034.png"
+                            },
+                            {
+                                "name": "T35 Application of inductive effect in stability of Carbocation",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12035.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12035.png"
+                            },
+                            {
+                                "name": "T36 Application of inductive effect in stability of Carbanion",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12036.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12036.png"
+                            },
+                            {
+                                "name": "T37 Application of inductive effect in reactivity of alkyle halide",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12037.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12037.png"
+                            },
+                            {
+                                "name": "T38 Application of inductive effect in acidity of alchol & carboxylic acid",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12038.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12038.png"
+                            },
+                            {
+                                "name": "T39 Application of inductive effect in basicity of amines",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12039.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12039.png"
+                            },
+                            {
+                                "name": "T40 Mesomeric effect",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12040.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12040.png"
+                            },
+                            {
+                                "name": "T41 +M effect",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12041.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12041.png"
+                            },
+                            {
+                                "name": "T42 -M Effect",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12042.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12042.png"
+                            },
+                            {
+                                "name": "T43 Application of mesomeric effect in aromaticity",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12043.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12043.png"
+                            },
+                            {
+                                "name": "T44 Application of mesomeric effect in aromaticity",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12044.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12044.png"
+                            },
+                            {
+                                "name": "T45 Application of mesomeric effect in stability of carbocation",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12045.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12045.png"
+                            },
+                            {
+                                "name": "T46 Application of mesomeric effect in stability of carbanion",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12046.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12046.png"
+                            },
+                            {
+                                "name": "T47 Application of mesomeric effect in stability of benzoic acid",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12047.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12047.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Resonance in Organic Compounds",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T48 Resonance energy",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12048.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12048.png"
+                            },
+                            {
+                                "name": "T49 Stability of resonating structure",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12049.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12049.png"
+                            },
+                            {
+                                "name": "T50 Stability of caboxylic acid & phenol",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12050.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12050.png"
+                            },
+                            {
+                                "name": "T51 Sigma bond resonance",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12051.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12051.png"
+                            },
+                            {
+                                "name": "T52 Hyperconjugation",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12052.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12052.png"
+                            },
+                            {
+                                "name": "T53 Electromeric effect",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12053.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12053.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Reaction Intermediates and Mechanisms",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "T54 Types of reagents",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12054.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12054.png"
+                            },
+                            {
+                                "name": "T55 Types of reagents",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12055.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12055.png"
+                            },
+                            {
+                                "name": "T56 Types of intermediates",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12056.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12056.png"
+                            },
+                            {
+                                "name": "T57 types of reactions",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12057.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12057.png"
+                            },
+                            {
+                                "name": "T58 Free radical substitution reaction",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12058.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12058.png"
+                            },
+                            {
+                                "name": "T59 Mechanism of free radical substitution reaction",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12059.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12059.png"
+                            },
+                            {
+                                "name": "T60 Examples of free radical substitution reaction",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12060.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12060.png"
+                            },
+                            {
+                                "name": "T61 Electrophilic substitution reaction",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12061.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12061.png"
+                            },
+                            {
+                                "name": "T62 Halogenation",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12062.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12062.png"
+                            },
+                            {
+                                "name": "T63 Friedel craft acylation",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12063.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12063.png"
+                            },
+                            {
+                                "name": "T64 Nitration",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12064.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12064.png"
+                            },
+                            {
+                                "name": "T65 Sulphonation",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12065.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12065.png"
+                            },
+                            {
+                                "name": "T66 Limitations of electrophilic substitution reaction",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12066.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12066.png"
+                            },
+                            {
+                                "name": "T67 Nucleophilic substitution & SN2 reactions",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12067.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12067.png"
+                            },
+                            {
+                                "name": "T68 SN1 reaction",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12068.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12068.png"
+                            },
+                            {
+                                "name": "T69 Electrophilic addition reaction",
+                                "sequence": 16,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12069.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12069.png"
+                            },
+                            {
+                                "name": "T70 Markovnikoff rule",
+                                "sequence": 17,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12070.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12070.png"
+                            },
+                            {
+                                "name": "T71 Free radical addition reaction",
+                                "sequence": 18,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12071.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12071.png"
+                            },
+                            {
+                                "name": "T72 Nucleophilic addition reaction",
+                                "sequence": 19,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12072.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12072.png"
+                            },
+                            {
+                                "name": "T73 Alpha elimination reaction",
+                                "sequence": 20,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12073.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12073.png"
+                            },
+                            {
+                                "name": "T74 Beta elimination & E2 mechanism",
+                                "sequence": 21,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12074.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12074.png"
+                            },
+                            {
+                                "name": "T75 E1 mechanism for beta elimination reactions",
+                                "sequence": 22,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12075.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12075.png"
+                            },
+                            {
+                                "name": "T76 Energy level diagram for E1 & E2 mechanism reactions",
+                                "sequence": 23,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12076.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12076.png"
+                            },
+                            {
+                                "name": "T77 E1CB mechanism for Beta elimination reactions",
+                                "sequence": 24,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12077.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12077.png"
+                            },
+                            {
+                                "name": "T78 Dehydration of alcohols",
+                                "sequence": 25,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12078.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12078.png"
+                            },
+                            {
+                                "name": "T79 Saytzeff rule",
+                                "sequence": 26,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12079.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12079.png"
+                            },
+                            {
+                                "name": "T80 Hoffmann elimination",
+                                "sequence": 27,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12080.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12080.png"
+                            },
+                            {
+                                "name": "T81 examples of Sytzeff rule",
+                                "sequence": 28,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12081.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12081.png"
+                            },
+                            {
+                                "name": "T82 Wagner-Meerwin rearrangement",
+                                "sequence": 29,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12082.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12082.png"
+                            },
+                            {
+                                "name": "T83 Fries rearrangement",
+                                "sequence": 30,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12083.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12083.png"
+                            },
+                            {
+                                "name": "T84 Miscellaneous reactions",
+                                "sequence": 31,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12084.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/12.organic-chemistry-some-basic-principles-and-techniques/TC12084.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hydrocarbon",
+                "sequence": 13,
+                "topics": [
+                    {
+                        "name": "Chemistry of Saturated Hydrocarbons",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction of Alkanes",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13001.png"
+                            },
+                            {
+                                "name": "T2 Preparation of Alkanes from unsaturated hydrocarbons by sabatier Senderens reactions",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13002.png"
+                            },
+                            {
+                                "name": "T3 Preparation of Alkanesfrom Alkyl halides by reduction, Wurtz reaction & Frankland reaction",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13003.png"
+                            },
+                            {
+                                "name": "T4 Preparation of Alkanes from carboxylic acid by Decarboxylation, & Kolbe's electrolysis",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13004.png"
+                            },
+                            {
+                                "name": "T5 Preparation of Alkanes by reduction using HI with red phosphorous",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13005.png"
+                            },
+                            {
+                                "name": "T6 Preparation of Alkanes from Grignard reagent & hydrolysis of carbide",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13006.png"
+                            },
+                            {
+                                "name": "T7 Carey House Synthesis, Clemmenson & Wolff Kishner Reduction & Hydroboration",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13007.png"
+                            },
+                            {
+                                "name": "T8 Physical properties of Alkanes",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13008.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13008.png"
+                            },
+                            {
+                                "name": "T9 Halogenation, Nitration, Sulphonation& Oxidation",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13009.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13009.png"
+                            },
+                            {
+                                "name": "T10 Isomerisation, Aromatization & Pyrolysis",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13010.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry of Unsaturated Hydrocarbons (Alkenes)",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T11 Preparation of Alkenes from Alcohols by dehydration & discussion on Saytzeff rule",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13011.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13011.png"
+                            },
+                            {
+                                "name": "T12 Preparation From Dehalogenation, Kolbe's electrolysis, Pyrolysis & Witting reaction",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13012.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13012.png"
+                            },
+                            {
+                                "name": "T13 Physical properties of Alkenes",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13013.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13013.png"
+                            },
+                            {
+                                "name": "T14 Chemical Properties, Addition of Hydrogen & Halogens",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13014.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13014.png"
+                            },
+                            {
+                                "name": "T15 Addition of HOCL, HX",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13015.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13015.png"
+                            },
+                            {
+                                "name": "T16 Markovnikoff's Rule",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13016.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13016.png"
+                            },
+                            {
+                                "name": "T17 Hydroboration oxidation & addition of water",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13017.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13017.png"
+                            },
+                            {
+                                "name": "T18 Addition of sulphuric acid & Substitution allylic reaction",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13018.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13018.png"
+                            },
+                            {
+                                "name": "T19 Oxidation reaction",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13019.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13019.png"
+                            },
+                            {
+                                "name": "T20 Oxymercuration- Demercuration & Polymerisation reactions",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13020.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13020.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chemistry of Unsaturated Hydrocarbons ( Alkynes)",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T21 Preparation of Alkynes from Dehydrohalogenation & Chloroform",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13021.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13021.png"
+                            },
+                            {
+                                "name": "T22 Kolbe's Electrolysis",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13022.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13022.png"
+                            },
+                            {
+                                "name": "T23 Addition of HOCL, Water, HCN & Acetic Acid",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13023.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13023.png"
+                            },
+                            {
+                                "name": "T24 Oxidation reaction",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13024.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13024.png"
+                            },
+                            {
+                                "name": "T25 Polymerisation, Oxymercuration-Demercuration & Hydroboration oxidation",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13025.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13025.png"
+                            },
+                            {
+                                "name": "T26 Acidic character of Alkynes & Comparison study of Alkanes, Alkenes & Alkynes",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13026.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13026.png"
+                            },
+                            {
+                                "name": "T27 Aromatic Hydrocarbons",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13072.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13072.png"
+                            },
+                            {
+                                "name": "T28 Preparation of benzene from Phenol, Acetylene, Aniline etc & Coal",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13028.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13028.png"
+                            },
+                            {
+                                "name": "T29 Physical And Chemical properties of Benzene",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13029.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13029.png"
+                            },
+                            {
+                                "name": "T30 Structure of Benzene",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13030.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/13.hydrocarbon/TC13030.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Environmental Chemistry",
+                "sequence": 14,
+                "topics": [
+                    {
+                        "name": "Types of Pollution and Harmful Effects",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to environmental chemistry",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14001.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14001.png"
+                            },
+                            {
+                                "name": "T2 Environmental pollution",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14002.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14002.png"
+                            },
+                            {
+                                "name": "T3 Tropospheric pollution",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14003.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14003.png"
+                            },
+                            {
+                                "name": "T4 Particulate pollutants",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14004.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14004.png"
+                            },
+                            {
+                                "name": "T5 Stratospheric pollution",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14005.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14005.png"
+                            },
+                            {
+                                "name": "T6 Water pollution",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14006.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14006.png"
+                            },
+                            {
+                                "name": "T7 Soil pollution",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14007.mp4",
+                                "thumbnail": "https://static.upmyranks.com/entrance-topics/chemistry-11/14.environmental-chemistry/TC14007.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

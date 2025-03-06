@@ -1,0 +1,192 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Cobra and the Crows",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Zoya's Forgetful Day (Short story)",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "My Dog, Spot (Poem)",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Aarav's Triumph (Short story)",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "The Merchant of Seri (Jataka tale)",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "The Moon (Poem)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Pickle Time with Grandma (Play)",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Ahmed Gives a Speech (Short story)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Books Fall Open  (Poem)",
+                "sequence": 9,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "chapters": [
+            {
+                "name": "Counting Number Up To 200",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Lets Add and Subtract Small Numbers",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "More About Shapes ",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Counting Numbers Up To 999",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Lets Add Bigger Numbers",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Subtract Bigger Numbers",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Counting Money",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Keeping Up with Multiplication",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Exploring Division",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Compare and Measure (Length & Weight)",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Compare and Measure (Capacity)",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Patterns",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Clocks and Calenders",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Environmental Studies",
+        "chapters": [
+            {
+                "name": "Knowing My Body",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Healthy Food Choices",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Air: The Invisible Helper",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Water for Life",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Clothes We Wear",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Our Home, Our Shelter",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Staying Safe Everywhere",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "How We Move and Connect",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Exploring Time and Direction",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": " Discovering Plants",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Exploring Animals",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Earth's Treasures",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Our Earth and the Sky",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    }
+]

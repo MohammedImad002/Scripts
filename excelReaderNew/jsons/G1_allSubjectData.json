@@ -1,0 +1,132 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "Visit to the Zoo",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Bedtime (Poem)",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Who Will Bell the Cat?",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Cooking Adventure with Young Aryan (A Play)",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "The Last Day of School",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Count Wisely (A Short Story)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "A Trip to Kerala",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "A Feast for a Frog: Kenn Nesbitt (Poem)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "The Ant and the Grasshopper",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Fun at School",
+                "sequence": 10,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "chapters": [
+            {
+                "name": "Counting Number 1 to 10",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "How Long and How Tall?",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "How Heavy and How Light?",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Let us Put Together",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Let us Take Away",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Discovering Shapes and Patterns",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Counting Numbers Up To 50",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Let's Add and Subtract Up To 50",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "All About Money",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Telling Time",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Counting Numbers Up To 100",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Let's Add and Subtract Up To 100",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Fun with Data",
+                "sequence": 13,
+                "topics": []
+            },
+            {
+                "name": "Fun with Multiplication",
+                "sequence": 14,
+                "topics": []
+            }
+        ]
+    }
+]

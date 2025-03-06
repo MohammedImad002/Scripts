@@ -1,0 +1,241 @@
+[
+    {
+        "name": "CSAT English",
+        "chapters": [
+            {
+                "name": "English",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "Introduction",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "Introduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verbs and Tenses",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "Verbs and Tenses",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES002.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Active and Passive Voice",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "Active and Passive Voice",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Adverbs",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "Adverbs",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Articles",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "Articles",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spotting Errors",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "Spotting Errors",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synonyms and Antonym",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "Synonyms and Antonym",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "One Word Substitution",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "One Word Substitution",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES008.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Idioms and Phrases",
+                        "sequence": 9,
+                        "materials": [
+                            {
+                                "name": "Idioms and Phrases",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES009.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sentence Improvement",
+                        "sequence": 10,
+                        "materials": [
+                            {
+                                "name": "Sentence Improvement",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sentence Completion",
+                        "sequence": 11,
+                        "materials": [
+                            {
+                                "name": "Sentence Completion",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES011.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spelling",
+                        "sequence": 12,
+                        "materials": [
+                            {
+                                "name": "Spelling",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES012.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cloze Test",
+                        "sequence": 13,
+                        "materials": [
+                            {
+                                "name": "Cloze Test",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES013.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Homophones",
+                        "sequence": 14,
+                        "materials": [
+                            {
+                                "name": "Homophones",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES014.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parajumbles",
+                        "sequence": 15,
+                        "materials": [
+                            {
+                                "name": "Parajumbles",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES015.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Essay Writing",
+                        "sequence": 16,
+                        "materials": [
+                            {
+                                "name": "Essay Writing",
+                                "sequence": 16,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES016.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Precis Writing",
+                        "sequence": 17,
+                        "materials": [
+                            {
+                                "name": "Precis Writing",
+                                "sequence": 17,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES017.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Comprehension",
+                        "sequence": 18,
+                        "materials": [
+                            {
+                                "name": "Comprehension",
+                                "sequence": 18,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES018.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Emotional Intelligence",
+                        "sequence": 19,
+                        "materials": [
+                            {
+                                "name": "Emotional Intelligence",
+                                "sequence": 19,
+                                "url": "https://static.upmyranks.com/upsc/english/UPSCES019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/english/UPSCES019.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

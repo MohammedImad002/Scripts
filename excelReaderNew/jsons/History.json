@@ -1,0 +1,214 @@
+[
+    {
+        "name": "History",
+        "sequence": 5,
+        "chapters": [
+            {
+                "name": "Modern History",
+                "sequence": 3,
+                "topics": [
+                    {
+                        "name": "ADVENT OF EUROPEANS TO INDIA",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "S1 ADVENT OF EUROPEANS TO INDIA 1",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS001.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S2 ADVENT OF EUROPEANS TO INDIA 2",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS002.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S3 REGULATING ACT 1773",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS003.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S4 LORD WELLSLEY",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS004.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S5 LORD WILLIAM BENTICK",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS005.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S6 LORD DALHOUSIE",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS006.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "SEPOY MUTINY",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "S7 SEPOY MUTINY 1",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS007.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S8 SEPOY MUTINY 2",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS008.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S9 LORD LYTTON AND LORD RIPPON",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS009.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S10 LORD CURZON",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS010.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S11 INDIAN NATIONAL MOVEMENT",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS011.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S12 INDIAN NATIONAL MOVEMENT PHASE 1 MODERATES",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS012.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S13 INDIAN NATIONAL MOVEMENT PHASE 2 EXTREMISTS 1",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS013.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S14 CONSPIRACIES AND REVOLUTIONARY ACTIVITIES ABROAD",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS014.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GANDHIAN ERA",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "S15 GANDHIAN ERA 1",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS015.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S16 GANDHIAN ERA 2",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS016.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S17 GANDHIAN ERA 3",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS017.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S18 GANDHIAN ERA 4",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS018.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S19 GANDHIAN ERA 5",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS019.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "INDIA'S FREEDOM STRUGGLE",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "S20 INDIA'S FREEDOM STRUGGLE 2",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS020.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S21 INDIA'S FREEDOM STRUGGLE 3",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS021.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            },
+                            {
+                                "name": "S22 INDIA'S FREEDOM STRUGGLE 4",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/modern-history/UPSCMHS022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/modern-history/UPSCMHS022.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

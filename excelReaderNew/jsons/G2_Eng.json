@@ -1,0 +1,52 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Cobra and the Crows ",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Zoya's Forgetful Day (Short story)",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "My Dog, Spot (Poem)",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Aarav's Triumph (Short story)",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "The Merchant of Seri (Jataka tale)",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "The Moon (Poem)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Pickle Time with Grandma (Play)",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Ahmed Gives a Speech (Short story)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Books Fall Open  (Poem)",
+                "sequence": 9,
+                "topics": []
+            }
+        ]
+    }
+]

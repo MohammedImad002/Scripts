@@ -1,0 +1,277 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Little Girl Who Couldn't See or Hear",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Be Glad Your Nose is on Your Face (Poem)",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Alice in Wonderland",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Pret in the House",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "My Shadow (Poem)",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "The Magic Paintbrush  (A Chinese Folktale)",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Wheels of Joy (Play)",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Good Books (Poem)",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "The Fisherman and His Wife (A German fairy tale)",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "The Elephant and the Cassowary Bird",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Little Talk (Poem)",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "chapters": [
+            {
+                "name": "Numbers From Thousands to Lakh",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Addition and Subtraction",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Multiplication",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Division",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Factors ",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Multiples",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Fractions",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Introduction to Decimals",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Geometry",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Metric Measures",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Area and Perimeter",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Patterns and Symmetry",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Time",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Science",
+        "chapters": [
+            {
+                "name": "Journey Through Space",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Building Blocks: Material",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Force, Work and Energy",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Weather and Water",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "States of Matter",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Around and Beneath Us",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Nature's Unity",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Cycle of Life",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Adaptation in Animals",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Adaptation in Plants",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Green Chefs of the Earth",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "The Journey of Food and Waste",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Food and Nutrition",
+                "sequence": 13,
+                "topics": []
+            }
+        ]
+    },
+    {
+        "name": "Social Science",
+        "chapters": [
+            {
+                "name": "Timelines and Calendars",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Movements of the Earth ",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Spheres of the Earth",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Major Landforms of the Earth ",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "The Northern Mountains",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "The Northern Plains",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "India's Plateau",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "The Great Indian Desert",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "India's Coastal Plains and Islands",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Our Cultural Heritage",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Organizations that Help us",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "A Journey Through India's History",
+                "sequence": 12,
+                "topics": []
+            },
+            {
+                "name": "Government of India ",
+                "sequence": 13,
+                "topics": []
+            },
+            {
+                "name": "Rights and Duties",
+                "sequence": 14,
+                "topics": []
+            }
+        ]
+    }
+]

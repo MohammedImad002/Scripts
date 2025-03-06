@@ -1,0 +1,62 @@
+[
+    {
+        "name": "English",
+        "chapters": [
+            {
+                "name": "The Little Girl Who Couldn't See or Hear \r\n",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Be Glad Your Nose is on Your Face (Poem) \r\n",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Alice in Wonderland \r\n",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Pret in the House \r\n",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "My Shadow (Poem) \r\n",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "The Magic Paintbrush  (A Chinese Folktale)\r\n",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Wheels of Joy (Play) ",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Good Books (Poem) ",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "The Fisherman and His Wife (A German fairy tale) \r\n",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "The Elephant and the Cassowary Bird \r\n",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Little Talk (Poem) \r\n",
+                "sequence": 11,
+                "topics": []
+            }
+        ]
+    }
+]

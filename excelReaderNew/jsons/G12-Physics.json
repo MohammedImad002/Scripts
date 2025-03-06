@@ -1,0 +1,1837 @@
+[
+    {
+        "name": "Physics",
+        "chapters": [
+            {
+                "name": "Electric charges and Field",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "Electric charges and their properties",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Charge and Properties of charge",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15001.png"
+                            },
+                            {
+                                "name": "T2 Method of charging by conduction",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15002.png"
+                            },
+                            {
+                                "name": "T3 Charging by friction & induction",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coulomb's law and its application",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 Coloumb's law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15004.png"
+                            },
+                            {
+                                "name": "T5 Example 1,2 & 3 of coloumb's law",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15005.png"
+                            },
+                            {
+                                "name": "T6 Example 4 on Coloumb's law",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15006.png"
+                            },
+                            {
+                                "name": "T7 Equilibrium of charges",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15007.png"
+                            },
+                            {
+                                "name": "T8 Example 1 on Equilibrium of charges",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15008.png"
+                            },
+                            {
+                                "name": "T9 Example 2 on equilibrium of charges",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15009.png"
+                            },
+                            {
+                                "name": "T10 Example 3 of equilibrium of charges",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15010.png"
+                            },
+                            {
+                                "name": "T11 Stable and unstable equilibrium of charges",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15011.png"
+                            },
+                            {
+                                "name": "T12 Pendulum bob problem on equilibrium of charges",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15012.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric field",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T13 Electric field & Electric field lines",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15013.png"
+                            },
+                            {
+                                "name": "T14 Properties of electric lines of force",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15014.png"
+                            },
+                            {
+                                "name": "T15 Linear, surface & volume charge density",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15015.png"
+                            },
+                            {
+                                "name": "T16 Example problem on Linear & surface charge density",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15016.png"
+                            },
+                            {
+                                "name": "T17 Example problem on volume charge density",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15017.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric field due to various distribution of charges",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T18 Electric field due to an arc",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15018.png"
+                            },
+                            {
+                                "name": "T19 Electric field due to ring on its axis",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15019.png"
+                            },
+                            {
+                                "name": "T20 Motion of charged particle in uniform electric field case1",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15020.png"
+                            },
+                            {
+                                "name": "T21 Motion of charged particle in uniform electric field case2",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15021.png"
+                            },
+                            {
+                                "name": "T22 Example problem on motion of charge particel",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15022.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric dipole",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T23 Dipole",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15023.png"
+                            },
+                            {
+                                "name": "T24 Torque experienced by dipole placed in electric field",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15024.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15024.png"
+                            },
+                            {
+                                "name": "T25 Electric field due to dipole on an axial line",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15025.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15025.png"
+                            },
+                            {
+                                "name": "T26 Electric field due to dipole on equotorial line",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15026.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15026.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric flux and Gauss's law",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T27 Electric flux",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15027.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15027.png"
+                            },
+                            {
+                                "name": "T28 Gaus's law",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15028.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15028.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Application of Gauss's law",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T29 Electric field due to uniformly charged wire",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15029.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15029.png"
+                            },
+                            {
+                                "name": "T30 Electric field due to non conducting sheet",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15030.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15030.png"
+                            },
+                            {
+                                "name": "T31 Example problem on electric field due to wire",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15031.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15031.png"
+                            },
+                            {
+                                "name": "T32 Example problem on Electric field on conducting sheet",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15032.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15032.png"
+                            },
+                            {
+                                "name": "T33 Electric field due to conducting sphere",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15033.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/15.electric-charges-and-fields/TP15033.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electrostatic-Potantial and Capacitors",
+                "sequence": 2,
+                "topics": [
+                    {
+                        "name": "Introduction",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to electric potential",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electrostatics Potential Energy & work Done in a Carrying a Charge",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Electrostatic potential energy",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16002.png"
+                            },
+                            {
+                                "name": "T3 Example problem 1 &2 on electric potential energy",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16003.png"
+                            },
+                            {
+                                "name": "T4 Example problem 3 on electric potential energy",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16004.png"
+                            },
+                            {
+                                "name": "T6 Potential energy in presence of electric field",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "3T Electrostatics Potential & Equipotential Surfaces\r\n",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T7 Potential difference",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16007.png"
+                            },
+                            {
+                                "name": "T8 Relationship between electric field and potential",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16008.png"
+                            },
+                            {
+                                "name": "T9 Example problem 1 on electric field and potential",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16009.png"
+                            },
+                            {
+                                "name": "T10 Example problem 2 on electric field and potential",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16010.png"
+                            },
+                            {
+                                "name": "T11 Example problem 3 on electric field and potential",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16011.png"
+                            },
+                            {
+                                "name": "T12 Electric potential due to conducting, non conducting sphere & Ring",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16012.png"
+                            },
+                            {
+                                "name": "T13 Electric potential due to 3 concentric shells",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16013.png"
+                            },
+                            {
+                                "name": "T14 Connecting 2 metallic spheres",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16014.png"
+                            },
+                            {
+                                "name": "T15 Null point for electric potential",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16015.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Capacitors,Capacitance,Grouping of Capacitors & Energy Stored in a Capacitor",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T20 Dielectric & types of dielectric",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16020.png"
+                            },
+                            {
+                                "name": "T21 Parallel plate capacitor",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16021.png"
+                            },
+                            {
+                                "name": "T22 Introduction of dielectric when battery is connected & disconnected",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16022.png"
+                            },
+                            {
+                                "name": "T23 Spherical & Cylindrical capacitance",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/16.electrostatic-potential-and-capacitance/TP16023.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Current electricity",
+                "sequence": 3,
+                "topics": [
+                    {
+                        "name": "Electric current",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to current electricity",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17001.png"
+                            },
+                            {
+                                "name": "T2 Current density",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17002.png"
+                            },
+                            {
+                                "name": "T3 Drift speed",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ohm's law",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 Ohm's law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17004.png"
+                            },
+                            {
+                                "name": "T5 Change in resistance",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combination od resistors\r\n",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T6 Resistors connected in series",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17006.png"
+                            },
+                            {
+                                "name": "T7 Resistors connected in parallel",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17007.png"
+                            },
+                            {
+                                "name": "T8 Example problem 1, 2 & 3 in grouping of resistors",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17008.png"
+                            },
+                            {
+                                "name": "T9 Example problem 4 & 5 in grouping of resistors",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17009.png"
+                            },
+                            {
+                                "name": "T10 Example 1 & 2 in infinite ladder circuit",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17010.png"
+                            },
+                            {
+                                "name": "T11 example problems 6 & 7 on grouping of resistors",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17011.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electromotive force",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T12 Cells EMF & terminal potential difference",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17012.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combination of cells",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T13 Cells in series",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.png"
+                            },
+                            {
+                                "name": "T14 Cells in parallel",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.png"
+                            },
+                            {
+                                "name": "T15 Mixed grouping of cells",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kirchhoff's laws",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T16 Kirchoff's rules in electrical network",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17016.png"
+                            },
+                            {
+                                "name": "T17 Example problem 1 on Kirchoff's rules",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17017.png"
+                            },
+                            {
+                                "name": "T18 Example problem 2 on Kirchoff's rules",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17018.png"
+                            },
+                            {
+                                "name": "T19 Example problem 3 on Kirchoff's network",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17019.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric power\r\n",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T20 Power dissipated in resistors",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17020.png"
+                            },
+                            {
+                                "name": "T21 Example problem 1 on power dissipated",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17021.png"
+                            },
+                            {
+                                "name": "T22 Example problem 2 on power dissipated",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17022.png"
+                            },
+                            {
+                                "name": "T23 Example problem 3 on power dissipated",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17023.png"
+                            },
+                            {
+                                "name": "T24 Example problem 4 on power dissipated",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17024.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17024.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wheatstone's bridge",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "T25 Balanced wheatstone bridge",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17025.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17025.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Measuring devices",
+                        "sequence": 9,
+                        "materials": [
+                            {
+                                "name": "T26 Meter bridge",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17026.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17026.png"
+                            },
+                            {
+                                "name": "T27 Potentiometer",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17027.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17027.png"
+                            },
+                            {
+                                "name": "T28 Example 1 on potentiometer",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17028.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17028.png"
+                            },
+                            {
+                                "name": "T29 Example 2 & 3 on potentiometer",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17029.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17029.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Growth of current in RC circuit",
+                        "sequence": 10,
+                        "materials": [
+                            {
+                                "name": "T30 R-C circuit",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17030.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17030.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Moving Charges and magnetism",
+                "sequence": 4,
+                "topics": [
+                    {
+                        "name": "Magnetism",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to moving charges and magnetism",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Biot Savart's law",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Biot savart's law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17002.png"
+                            },
+                            {
+                                "name": "T3 Magnetic field due to an arc & wire",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17003.png"
+                            },
+                            {
+                                "name": "T4 Magnetic field due to standard sections 1, 2, 3 & 4",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17004.png"
+                            },
+                            {
+                                "name": "T5 Magnetic field due to standard sections 5, 6, 7 & 8",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17005.png"
+                            },
+                            {
+                                "name": "T6 Example problem on magnetic field on standard objects",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Force on a moving charge",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T7 Force experienced by charged particle moving in MF & case1",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17007.png"
+                            },
+                            {
+                                "name": "T8 Case2 in force due to charge",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17008.png"
+                            },
+                            {
+                                "name": "T9 Different cases oin case 2",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17009.png"
+                            },
+                            {
+                                "name": "T10 Case3 in force due to MF",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magnetic field due to a coil carrying current",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T11 Magnetic flied due to circualr coil on the axis & centre",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17011.png"
+                            },
+                            {
+                                "name": "T12 Ratio of magnetic field on axis & centre of circular coil",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17012.png"
+                            },
+                            {
+                                "name": "T13 Magnetic filed on circlar coil of n turns",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Force on a current carrying conductor",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T14 Force on a current carrying conductor",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.png"
+                            },
+                            {
+                                "name": "T15 force in uniform current carrying loop",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.png"
+                            },
+                            {
+                                "name": "T16 Example problem on force on current carrying conductors",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17013.png"
+                            },
+                            {
+                                "name": "T17 Force between 2 parallel conductors carrying current",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17014.png"
+                            },
+                            {
+                                "name": "T18 Example problem on 2 parallel conductors",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17015.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Torque on a current loop",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T19 Torque on current carrying loop",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17019.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ampere's circuital law and its applications",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T20 Ampere's circutal law",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17020.png"
+                            },
+                            {
+                                "name": "T21 Magnetic field due to a long current carrying wire",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17021.png"
+                            },
+                            {
+                                "name": "T22 Magnetic field due to thick wire & hollow cylinder",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17022.png"
+                            },
+                            {
+                                "name": "T23 Magnetic field due to a solenoid",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17023.png"
+                            },
+                            {
+                                "name": "T24 Magnetic field due to a toroid",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17024.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17024.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moving coil galvanometer",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "T25 Moving coil galvanometer",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17025.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17025.png"
+                            },
+                            {
+                                "name": "T26 Conversion of galvanometer to ammeter",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17026.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17026.png"
+                            },
+                            {
+                                "name": "T27 Magnetic moment of a revolving electron",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17027.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/17.current-electricity/TP17027.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magnetism and Matter",
+                "sequence": 5,
+                "topics": [
+                    {
+                        "name": "Magnetism,Gauss's law,Magnetic Moment & Properties of Magnet",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Magnetic moment in bar magnet",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19001.png"
+                            },
+                            {
+                                "name": "T2 Relation between magnetic field & magnetic moment",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19002.png"
+                            },
+                            {
+                                "name": "T3 Magnetic field due to bar magnetic on its equotorial line",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19003.png"
+                            },
+                            {
+                                "name": "T4 Torque in bar magnet",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19004.png"
+                            },
+                            {
+                                "name": "T5 Workdone in rotating bar magnet",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Earth's Magnetism,Magnetic Materials ,Magnetc Equipments",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T6 Earth's magnetism",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19006.png"
+                            },
+                            {
+                                "name": "T7 Magnetisation & magnetic intensity",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19007.png"
+                            },
+                            {
+                                "name": "T8 Classification of magnetic substances",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19008.png"
+                            },
+                            {
+                                "name": "T9 Hysterisis curve",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/19.magnetism-and-matter/TP19009.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electromagnetic Induction",
+                "sequence": 6,
+                "topics": [
+                    {
+                        "name": "Magnetic flux",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Electric & magnetic flux",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20001.png"
+                            },
+                            {
+                                "name": "T2 Introduction, coil & magnet experiment",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20002.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electromagnetic induction",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T3 Induced emf",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20003.png"
+                            },
+                            {
+                                "name": "T4 Lenz's law",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20004.png"
+                            },
+                            {
+                                "name": "T5 Example on lenz's law",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20005.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Motional emf",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T6 Motional emf",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20006.png"
+                            },
+                            {
+                                "name": "T7 Example 1 on motional emf",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20007.png"
+                            },
+                            {
+                                "name": "T8 Example 2 in motional emf",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20008.png"
+                            },
+                            {
+                                "name": "T9 Example problem 1 & 2 in motional emf",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20009.png"
+                            },
+                            {
+                                "name": "T10 Other calculations in emf",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20010.png"
+                            },
+                            {
+                                "name": "T11 EMF due to rotating motion",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20011.png"
+                            },
+                            {
+                                "name": "T12 Example 1 & 2 of emf due to rotating motion",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20012.png"
+                            },
+                            {
+                                "name": "T13 Example 3 of emf due to rotating motion",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20013.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Self induction",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T14 Self inductnace",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20014.png"
+                            },
+                            {
+                                "name": "T15 Self inductance for coil of N turns",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20015.png"
+                            },
+                            {
+                                "name": "T16 Self inductance for solenoid of N turns",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20016.png"
+                            },
+                            {
+                                "name": "T17 Energy stored in inductor",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20017.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mutual induction",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T18 Mutual inductance",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20018.png"
+                            },
+                            {
+                                "name": "T19 Mutual inductance for pair of concentric coils",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20019.png"
+                            },
+                            {
+                                "name": "T20 Mutual inductance for a pair of long coaxial solenoids",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20020.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Growth and decay of current RL circuit",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T21 Growth & decay of current in R-L & charge in capacitor circuits",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20021.png"
+                            },
+                            {
+                                "name": "T22 Example problem on growth & decay",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20022.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AC generator",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "T23 AC generator",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/20.electromagnetic-induction/TP20023.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "7.Alternating current",
+                "sequence": 7,
+                "topics": [
+                    {
+                        "name": "Topics",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21001.png"
+                            },
+                            {
+                                "name": "T2 Average and RMS value",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21002.png"
+                            },
+                            {
+                                "name": "T3 Example problems on average and RMS value",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AC applied to various circuit elements",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 AC applied to a pure capacitor",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21004.png"
+                            },
+                            {
+                                "name": "T5 AC applied to pure inductor",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21005.png"
+                            },
+                            {
+                                "name": "T6 AC applied to a pure resistor",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21006.png"
+                            },
+                            {
+                                "name": "T7 Power dissipated in a pure capacitor or inductor",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Series LCR circuit\r\n",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T8 AC applied to series RLC network",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21008.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric resonance",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T9 Resonance",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21009.png"
+                            },
+                            {
+                                "name": "T10 Quality factor",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21010.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LC oscillations",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T11 LC oscillations",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21011.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Transformer",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "T12 Transformers",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/21.alternating-current/TP21012.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electromagnetic Waves",
+                "sequence": 8,
+                "topics": [
+                    {
+                        "name": "Electromagnetic Wave,Conduction & Displacement Current",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22001.png"
+                            },
+                            {
+                                "name": "T2 Speed of electromagnetic waves",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22002.png"
+                            },
+                            {
+                                "name": "T3 Momentum & energy of electromagnetic waves",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22003.png"
+                            },
+                            {
+                                "name": "T4 Characteristics of electromagnetic waves",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electromagnetic Spectrum",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T5 Radio waves & microwaves",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22005.png"
+                            },
+                            {
+                                "name": "T6 Infrared waves & ultraviolet rays",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22006.png"
+                            },
+                            {
+                                "name": "T7 X-Ray & Gamma rays",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/22.electromagnetic-waves/TP22007.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ray Optics And Optical Instruments",
+                "sequence": 9,
+                "topics": [
+                    {
+                        "name": "Introduction        ",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to Ray optics",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plane mirrors",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Dispersion",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23002.png"
+                            },
+                            {
+                                "name": "T3 Combination of 2 prisms",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23003.png"
+                            },
+                            {
+                                "name": "T4 Number images formed by an object",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23004.png"
+                            },
+                            {
+                                "name": "T5 Virtual and real images with example problems",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23005.png"
+                            },
+                            {
+                                "name": "T6 Angle of deviation with example problems",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23006.png"
+                            },
+                            {
+                                "name": "T7 Standard example problems on plane mirrors",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Convex and Concave mirror\t",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T8 Convex and Concave mirror",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23008.png"
+                            },
+                            {
+                                "name": "T9 Ray diagram for concave and convex rays",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23009.png"
+                            },
+                            {
+                                "name": "T10 Magnification in concave and convex mirrors",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23010.png"
+                            },
+                            {
+                                "name": "T11 Sign conventions, Paraxial & Marginal rays",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23011.png"
+                            },
+                            {
+                                "name": "T12 Mirror Equation",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23012.png"
+                            },
+                            {
+                                "name": "T13 Example problem on mirror equation",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23013.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Refraction",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T14 Introduction",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23014.png"
+                            },
+                            {
+                                "name": "T15 Laws of refraction & angle of deviation",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23015.png"
+                            },
+                            {
+                                "name": "T16 Refraction through curved surface",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23016.png"
+                            },
+                            {
+                                "name": "T17 Magnification with example problem",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23017.png"
+                            },
+                            {
+                                "name": "T18 Normal shift",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23018.png"
+                            },
+                            {
+                                "name": "T19 Standard problem on normal shift",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23019.png"
+                            },
+                            {
+                                "name": "T20 Example problem 1&2 on normal shift",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23020.png"
+                            },
+                            {
+                                "name": "T21 Example problem 3 on normal shift",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23021.png"
+                            },
+                            {
+                                "name": "T22 Total internal reflection",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23022.png"
+                            },
+                            {
+                                "name": "T23 Application of TIR",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23023.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23023.png"
+                            },
+                            {
+                                "name": "T24 Lateral shift",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23024.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23024.png"
+                            },
+                            {
+                                "name": "T25 Lenses & types of lense",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23025.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23025.png"
+                            },
+                            {
+                                "name": "T26 Ray diagram in lenses",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23026.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23026.png"
+                            },
+                            {
+                                "name": "T27 Len's makers formula",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23027.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23027.png"
+                            },
+                            {
+                                "name": "T28 Example problem 1& 2 on lense maker formula",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23028.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23028.png"
+                            },
+                            {
+                                "name": "T29 Standard problem on lense makers formula",
+                                "sequence": 16,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23029.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23029.png"
+                            },
+                            {
+                                "name": "T30 Equivlent focal length of 2 thin lenses in contact",
+                                "sequence": 17,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23030.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23030.png"
+                            },
+                            {
+                                "name": "T31 Example problem 1 & 2 on equivalent focal length",
+                                "sequence": 18,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23031.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23031.png"
+                            },
+                            {
+                                "name": "T32 Example problems",
+                                "sequence": 19,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23032.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23032.png"
+                            },
+                            {
+                                "name": "T33 Prism",
+                                "sequence": 20,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23033.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23033.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Optical instruments",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T34 Optical instruments",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23034.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23034.png"
+                            },
+                            {
+                                "name": "T35 Human Eye",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23035.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23035.png"
+                            },
+                            {
+                                "name": "T36 Myopia",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23036.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23036.png"
+                            },
+                            {
+                                "name": "T37 Hypermetropia",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23037.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23037.png"
+                            },
+                            {
+                                "name": "T38 Simple microscope",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23038.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23038.png"
+                            },
+                            {
+                                "name": "T39 Compound Microscope",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23039.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23039.png"
+                            },
+                            {
+                                "name": "T40 Astronomical Telescope",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23040.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23040.png"
+                            },
+                            {
+                                "name": "T41 Example problems on Compound & Astronomical Telescope",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23041.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/23.ray-optics-and-optical-instruments/TP23041.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wave Optics",
+                "sequence": 10,
+                "topics": [
+                    {
+                        "name": "Introduction to Wave Optics",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Introduction to Wave Optics",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24001.png"
+                            },
+                            {
+                                "name": "T2 Characteristics of Waves",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24002.png"
+                            },
+                            {
+                                "name": "T3 Huygen s Principle",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interference",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T4 Interference",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24004.png"
+                            },
+                            {
+                                "name": "T5 YDSE (Demons Interference Lightwaves)",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24005.png"
+                            },
+                            {
+                                "name": "T6 Difference between Position of Bright and Dark Fringe",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24006.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Differaction",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T7 Differaction of Light",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24007.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Polarization",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T8 Polarization of Light",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24008.png"
+                            },
+                            {
+                                "name": "T9 Polarization of Light by method of reflection",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24009.png"
+                            },
+                            {
+                                "name": "T10 Brewster's law",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/24.wave-optics/TP24010.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dual Nature Of Radiation And Matter",
+                "sequence": 11,
+                "topics": [
+                    {
+                        "name": "Types of electron emission",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Types of electron emission",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Photoelectric effect",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Photoelectric emission",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25002.png"
+                            },
+                            {
+                                "name": "T3 Result of photoelectric effect",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Matter waves",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T4 debroglie wavelength",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/25.dual-nature-of-radiation/TP25004.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Atoms",
+                "sequence": 12,
+                "topics": [
+                    {
+                        "name": "Bohr's model of hydrogen atom",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Postulates of Bohr's atomic model",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radius of nth orbit",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Derivation for radius of nth stationary orbit",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26002.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Speed of electron in the nth orbit",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "T3 Derivation for velocity of nth stationary orbit",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26003.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy of electron in the nth orbit",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "T4 Derivation for total energy of the electron",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26004.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydrogen spectrum",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "T5 Derivation of expression for wave number",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26005.png"
+                            },
+                            {
+                                "name": "T6 Spectral line",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26006.png"
+                            },
+                            {
+                                "name": "T7 Absorption and emission spectrum",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/26.atoms/TP26007.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nuclei",
+                "sequence": 13,
+                "topics": [
+                    {
+                        "name": "Composition and Size of the Nucleus",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "T1 Size of the nucleus & nuclear density",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27001.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mass-Energy & Nuclear Reaction",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "T2 Nuclear mass & binding energy",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27002.png"
+                            },
+                            {
+                                "name": "T3 Example problems on binding energy",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27003.png"
+                            },
+                            {
+                                "name": "T4 Specific binding energy curve",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27004.png"
+                            },
+                            {
+                                "name": "T5 Nuclear forces",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27005.png"
+                            },
+                            {
+                                "name": "T6 Example problem on nuclear forces",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/entrance-topics/physics-12/27.nuclei/TP27006.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

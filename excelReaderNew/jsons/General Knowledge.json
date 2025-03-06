@@ -1,0 +1,322 @@
+[
+    {
+        "name": "General Knowledge",
+        "sequence": 3,
+        "chapters": [
+            {
+                "name": "GK",
+                "sequence": 1,
+                "topics": [
+                    {
+                        "name": "S1 About India",
+                        "sequence": 1,
+                        "materials": [
+                            {
+                                "name": "S1 About India",
+                                "sequence": 1,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS001.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS001.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S2 Formation of States; Superlatives in India",
+                        "sequence": 2,
+                        "materials": [
+                            {
+                                "name": "S2 Formation of States; Superlatives in India",
+                                "sequence": 2,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS002.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS002.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S3 Superlatives in World",
+                        "sequence": 3,
+                        "materials": [
+                            {
+                                "name": "S3 Superlatives in World",
+                                "sequence": 3,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS003.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS003.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S4 Major Ports in India",
+                        "sequence": 4,
+                        "materials": [
+                            {
+                                "name": "S4 Major Ports in India",
+                                "sequence": 4,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS004.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS004.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S5 First in India and World",
+                        "sequence": 5,
+                        "materials": [
+                            {
+                                "name": "S5 First in India and World",
+                                "sequence": 5,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS005.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS005.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S6 National Emblems of Some Countries; News Agencies and National Parties",
+                        "sequence": 6,
+                        "materials": [
+                            {
+                                "name": "S6 National Emblems of Some Countries; News Agencies and National Parties",
+                                "sequence": 6,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS006.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS006.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S7 World's Intelegents Agenceis",
+                        "sequence": 7,
+                        "materials": [
+                            {
+                                "name": "S7 World's Intelegents Agenceis",
+                                "sequence": 7,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS007.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS007.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S8 UNESCO World Heritages Sites 2",
+                        "sequence": 8,
+                        "materials": [
+                            {
+                                "name": "S8 UNESCO World Heritages Sites 2",
+                                "sequence": 8,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS008.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS008.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S9 UNESCOS's List of Intangabile cultural Heritage; and famous tourist spots in India 1",
+                        "sequence": 9,
+                        "materials": [
+                            {
+                                "name": "S9 UNESCOS's List of Intangabile cultural Heritage; and famous tourist spots in India 1",
+                                "sequence": 9,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS009.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS009.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S10 Famous Tourist Spots in India 2",
+                        "sequence": 10,
+                        "materials": [
+                            {
+                                "name": "S10 Famous Tourist Spots in India 2",
+                                "sequence": 10,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS010.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS010.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S11 Indain Armed Forces",
+                        "sequence": 11,
+                        "materials": [
+                            {
+                                "name": "S11 Indain Armed Forces",
+                                "sequence": 11,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS011.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS011.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S12 Scientific Instruments",
+                        "sequence": 12,
+                        "materials": [
+                            {
+                                "name": "S12 Scientific Instruments",
+                                "sequence": 12,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS012.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS012.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S13 Invention and Discoveries",
+                        "sequence": 13,
+                        "materials": [
+                            {
+                                "name": "S13 Invention and Discoveries",
+                                "sequence": 13,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS013.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS013.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S14 Nuclier and Space Research Centres In India; Musical Instrument",
+                        "sequence": 14,
+                        "materials": [
+                            {
+                                "name": "S14 Nuclier and Space Research Centres In India; Musical Instrument",
+                                "sequence": 14,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS014.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS014.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S15 Bharathanatyam",
+                        "sequence": 15,
+                        "materials": [
+                            {
+                                "name": "S15 Bharathanatyam",
+                                "sequence": 15,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS015.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS015.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S16 Some Great Works of Famous Persons",
+                        "sequence": 16,
+                        "materials": [
+                            {
+                                "name": "S16 Some Great Works of Famous Persons",
+                                "sequence": 16,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS016.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS016.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S17 Books and Authors 1",
+                        "sequence": 17,
+                        "materials": [
+                            {
+                                "name": "S17 Books and Authors 1",
+                                "sequence": 17,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS017.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS017.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S18 Books and Authros 2; Important Commities in India",
+                        "sequence": 18,
+                        "materials": [
+                            {
+                                "name": "S18 Books and Authros 2; Important Commities in India",
+                                "sequence": 18,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS018.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS018.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S19 Famous Stadia and Sports",
+                        "sequence": 19,
+                        "materials": [
+                            {
+                                "name": "S19 Famous Stadia and Sports",
+                                "sequence": 19,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS019.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS019.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S20 First in space; Wonders of the World",
+                        "sequence": 20,
+                        "materials": [
+                            {
+                                "name": "S20 First in space; Wonders of the World",
+                                "sequence": 20,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS020.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS020.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S21 List of Reports and Indicies",
+                        "sequence": 21,
+                        "materials": [
+                            {
+                                "name": "S21 List of Reports and Indicies",
+                                "sequence": 21,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS021.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS021.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "S22 Vedas",
+                        "sequence": 22,
+                        "materials": [
+                            {
+                                "name": "S22 Vedas",
+                                "sequence": 22,
+                                "url": "https://static.upmyranks.com/upsc/general-knowledge/UPSCGKS022.mp4",
+                                "thumbnail": "https://thumbnail.upmyranks.com/upsc/general-knowledge/UPSCGKS022.png",
+                                "fileType": "video",
+                                "materialType": "study"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

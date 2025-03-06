@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Maths",
+        "chapters": [
+            {
+                "name": "Counting Numbers Upto 9999",
+                "sequence": 1,
+                "topics": []
+            },
+            {
+                "name": "Addition",
+                "sequence": 2,
+                "topics": []
+            },
+            {
+                "name": "Subtraction",
+                "sequence": 3,
+                "topics": []
+            },
+            {
+                "name": "Patterns and Symmetry",
+                "sequence": 4,
+                "topics": []
+            },
+            {
+                "name": "Multiplication",
+                "sequence": 5,
+                "topics": []
+            },
+            {
+                "name": "Division",
+                "sequence": 6,
+                "topics": []
+            },
+            {
+                "name": "Measurement",
+                "sequence": 7,
+                "topics": []
+            },
+            {
+                "name": "Factors",
+                "sequence": 8,
+                "topics": []
+            },
+            {
+                "name": "Introduction to Fractions",
+                "sequence": 9,
+                "topics": []
+            },
+            {
+                "name": "Money",
+                "sequence": 10,
+                "topics": []
+            },
+            {
+                "name": "Geometry & Shapes",
+                "sequence": 11,
+                "topics": []
+            },
+            {
+                "name": "Time",
+                "sequence": 12,
+                "topics": []
+            }
+        ]
+    }
+]
